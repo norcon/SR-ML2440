@@ -1,4 +1,4 @@
-# SR-ML2440
+# SRNE TOYO MPPT Solarcharger SR-ML2440
 CSV Parser for IP-Symcon
 
 Example in Symcon:
